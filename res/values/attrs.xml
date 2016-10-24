@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- 圆形自定义网络图片使用 -->
+    <declare-styleable name="CircleNetworkImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+
+    <!-- 圆形自定义图片使用 -->
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+
+</resources>
